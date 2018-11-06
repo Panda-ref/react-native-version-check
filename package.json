@@ -27,6 +27,7 @@
     "node": ">= 6.0.0"
   },
   "name": "react-native-version-check",
+  "version": "3.0.2",
   "author": "Taehyun Kim <kgyoo8232@gmail.com> (https://github.com/kimxogus)",
   "contributors": [],
   "homepage": "https://github.com/kimxogus/react-native-version-check",
