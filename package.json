@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "name": "react-native-version-check",
     "lint": "eslint .",
     "flow": "flow",
     "pretest": "yarn lint",
@@ -27,6 +26,7 @@
   "engines": {
     "node": ">= 6.0.0"
   },
+  "name": "react-native-version-check",
   "author": "Taehyun Kim <kgyoo8232@gmail.com> (https://github.com/kimxogus)",
   "contributors": [],
   "homepage": "https://github.com/kimxogus/react-native-version-check",
