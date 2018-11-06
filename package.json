@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "name": "react-native-version-check",
     "lint": "eslint .",
     "flow": "flow",
     "pretest": "yarn lint",
