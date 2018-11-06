@@ -17,6 +17,4 @@ Pod::Spec.new do |s|
   s.source_files  = "ios/RNVersionCheck.{h,m}"
 
   s.preserve_paths= "package.json", "LICENSE"
-
-  s.dependency 'React'
 end
